@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>崆</title>
+        <title>崆屿</title>
         <subtitle>空山与山</subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
           <name>Vicho</name>
         </author>
-        <description>在世上留下自己来过的痕迹</description>
+        <description>留下自己来过的痕迹</description>
         <language>zh-CN</language>
         <pubDate>Tue, 07 Sep 2021 12:50:45 +0800</pubDate>
         <lastBuildDate>Tue, 07 Sep 2021 12:50:45 +0800</lastBuildDate>
