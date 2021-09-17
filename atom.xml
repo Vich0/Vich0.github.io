@@ -8,7 +8,15 @@
     <author>
       <name>Vicho</name>
     </author>
-    <updated>2021-09-07T04:50:45.218Z</updated>
+    <updated>2021-09-17T11:37:06.412Z</updated>
+    <entry>
+        <id>http://example.com/2021/09/17/test/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</id>
+        <title></title>
+        <link rel="alternate" href="http://example.com/2021/09/17/test/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+        <content type="html">&lt;p&gt;此文档仅供测试使用&lt;/p&gt;
+</content>
+        <updated>2021-09-17T11:37:06.412Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2021/09/07/hello-world/</id>
         <title>Hello World</title>
